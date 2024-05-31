@@ -39,7 +39,7 @@ npm audit fix
 jupyter notebook
 ```
 
-4. Open `training/potato-disease-training.ipynb` in Jupyter Notebook.
+4. Open `modelling/potato-disease-training.ipynb` in Jupyter Notebook.
 5. In cell #2, update the path to dataset.
 6. Run all the Cells one by one.
 7. Copy the model generated and save it with the version number in the `models` folder.
